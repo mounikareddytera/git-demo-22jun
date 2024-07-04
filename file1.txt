@@ -1,2 +1,2 @@
 text file1
-
+some changes in file1
